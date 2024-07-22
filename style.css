@@ -5,8 +5,13 @@ html {
 
 h1, h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
 }
 
 p {
     font-family: Aptos, Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: green;
 }
